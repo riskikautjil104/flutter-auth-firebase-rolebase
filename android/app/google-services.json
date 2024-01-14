@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717145028313",
+    "project_id": "rolebase-ac76e",
+    "storage_bucket": "rolebase-ac76e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717145028313:android:55bd3d8046bf5cd69e30c8",
+        "android_client_info": {
+          "package_name": "com.example.dandri_rolebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiCQwL-4ePGsfSDHONgYW_ThAIC_or9yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
